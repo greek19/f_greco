@@ -6,7 +6,7 @@ I love tackling challenges, whether at work or in my own projects, using code to
 
 
 ## Social Media
-[![Static Badge](https://img.shields.io/badge/Francesco%20Greco%20-%20gray?logo=Linkedin&logoColor=white&labelColor=blue&link=www.linkedin.com/in/francesco-greco-3b351b205&color=gray)](www.linkedin.com/in/francesco-greco-3b351b205/)
+[![Static Badge](https://img.shields.io/badge/Francesco%Greco%20-%20gray?logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/francesco-greco-3b351b205&color=gray)](https://www.linkedin.com/in/francesco-greco-3b351b205)
 [![Static Badge](https://img.shields.io/badge/My%20portfolio%20-%20gray?logo=html5&logoColor=white&labelColor=orange&color=gray&link="link")](link)
 [![GitHub followers](https://img.shields.io/github/followers/greek19?logo=Github&label=follow&style=social)]()
 
