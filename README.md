@@ -38,4 +38,7 @@ I love tackling challenges, whether at work or in my own projects, using code to
   </tr>
 </table>
 
+<img alt="greek19's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=greek19&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2"/>
+
+
 
