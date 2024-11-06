@@ -38,5 +38,8 @@ I love tackling challenges, whether at work or in my own projects, using code to
   </tr>
 </table>
 
-
-
+## Stats
+ 
+<div width="80" align='center'>
+   <img alt="greek19's github stats" align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=greek19&theme=react&hide_border=true" >
+</div>
